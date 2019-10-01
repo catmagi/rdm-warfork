@@ -108,7 +108,7 @@ Download
 ========
 
 The current version is 0.7. The pk3-file containing the source code is
-available in the release section of this github.
+available in the [release section of this github].
 
 RDM is free software: you can redistribute it and/or modify it under the
 terms of the GNU [General Public License version 3][gpl3].
@@ -160,6 +160,7 @@ HUGE THANKS TO
 * Neptas for unintentionally inspiring me with his ssbf gametype
 * Everyone who is working to bring warfork to life and everyone who brought warsow far enough to become warfork
 
+[release section of this github]: https://github.com/catmagi/rdm-warfork/releases
 [Warfork]: http://warfork.com/
 [Warsow]: http://www.warsow.net/
 [acf_plot]: http://www.wolframalpha.com/input/?i=plot+%28atan%2812*%28x-1%29%29%2Bpi%2F2%29%2Fpi+from+x%3D0+to+4
