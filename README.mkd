@@ -1,12 +1,16 @@
 Title:      RDM user's manual
+
 Summary:    RDM is an alternative deathmatch gametype for Warfork.  The only
             distinction from the default deathmatch is that the score is
             measured not by frags, but by a numeric equivalent of the beauty
             of the shots.
-Copyright:  (c) 2019-2020 Vitaly Minko
+
+Copyright:  (c) 2019-2020 Nicholas Laramie
             Content is available under GNU Free Documentation License 1.3 and
             Creative Commons Attribution-Share Alike 3.0 Unported License
-Date:       2 Oct 2016
+
+Date:       1 Oct 2019
+
 Original Gametype Website:        http://vminko.org/rdm
 
 
@@ -150,7 +154,11 @@ Below is the list of features which the previous maintainer wrote down as todo t
   back within the same round.
 
 
-
+HUGE THANKS TO
+===
+* __Vitaly Minko__ for originally making the rdm gametype and doing basically everything
+* Neptas for unintentionally inspiring me with his ssbf gametype
+* Everyone who is working to bring warfork to life and everyone who brought warsow far enough to become warfork
 
 [Warfork]: http://warfork.com/
 [Warsow]: http://www.warsow.net/
