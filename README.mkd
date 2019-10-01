@@ -1,20 +1,20 @@
 Title:      RDM user's manual
-Summary:    RDM is an alternative deathmatch gametype for Warsow.  The only
+Summary:    RDM is an alternative deathmatch gametype for Warfork.  The only
             distinction from the default deathmatch is that the score is
             measured not by frags, but by a numeric equivalent of the beauty
             of the shots.
-Copyright:  (c) 2011-2016 Vitaly Minko
+Copyright:  (c) 2019-2020 Vitaly Minko
             Content is available under GNU Free Documentation License 1.3 and
             Creative Commons Attribution-Share Alike 3.0 Unported License
 Date:       2 Oct 2016
-Web:        http://vminko.org/rdm
+Original Gametype Website:        http://vminko.org/rdm
 
 
 Introduction
 ============
 
 Raging Deathmatch (RDM) is an alternative deathmatch gametype for
-[Warsow][wsw]. The only distinction from the default deathmatch is that the
+[Warfork] that was ported over from [Warsow]. The only distinction from the default deathmatch is that the
 score is measured not by frags, but by a numeric equivalent of the beauty of
 the shots.
 
@@ -103,8 +103,8 @@ weapons (i.e. with Instagib disabled).
 Download
 ========
 
-The current version is 0.6. The pk3-file containing the source code is
-available [here][dnld_curr]. The older releases are located [here][dnld_old].
+The current version is 0.7. The pk3-file containing the source code is
+available in the release section of this github.
 
 RDM is free software: you can redistribute it and/or modify it under the
 terms of the GNU [General Public License version 3][gpl3].
@@ -113,6 +113,8 @@ terms of the GNU [General Public License version 3][gpl3].
 ChangeLog
 =========
 
+__1 Oct 2019__ - Version __0.7__
+  Provided compatibility with Warfork
 __2 Oct 2016__ - Version __0.6__  
   The default timelimit changed from 10 to 20 minutes.
 
@@ -140,25 +142,18 @@ __04 Nov 2011__ - Version __0.1__
 ToDo
 ====
 
-Below is the list of features which I consider useful, but I can't promise that
-any of them will ever be implemented.
+Below is the list of features which the previous maintainer wrote down as todo that may be implimented if I ever get the time.
 
-* TRDM - Team Raging Deathmatch.
 * Add ability to get/set RDM parameters via command line and votes. 
 * Make players' score and time tolerant to joining spectators and returning
   back within the same round.
 
 
-Alternatives
-============
-
-* [Fast Clan Arena][fca]. This gametype will not let you shoot below the
-  minimum speed, it's compatible with normal weapons.
 
 
-[wsw]: http://www.warsow.net/
+[Warfork]: http://warfork.com/
+[Warsow]: http://www.warsow.net/
 [acf_plot]: http://www.wolframalpha.com/input/?i=plot+%28atan%2812*%28x-1%29%29%2Bpi%2F2%29%2Fpi+from+x%3D0+to+4
 [dnld_curr]: /storage/rdm/rdm_06.pk3
 [dnld_old]: /storage/rdm/
 [gpl3]: http://www.gnu.org/licenses/gpl.html
-[fca]: http://forum.picmip.org/forum/thread/12217/1
