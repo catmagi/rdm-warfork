@@ -118,7 +118,8 @@ ChangeLog
 =========
 
 __1 Oct 2019__ - Version __0.7__
-  Provided compatibility with Warfork
+  
+  Provided compatibility with Warfork.
 
 __2 Oct 2016__ - Version __0.6__  
   The default timelimit changed from 10 to 20 minutes.
