@@ -117,8 +117,7 @@ terms of the GNU [General Public License version 3][gpl3].
 ChangeLog
 =========
 
-__1 Oct 2019__ - Version __0.7__
-  
+__1 Oct 2019__ - Version __0.7__   
   Provided compatibility with Warfork.
 
 __2 Oct 2016__ - Version __0.6__  
